@@ -1,0 +1,10 @@
+structure:
+- the science of habits from atomic habits -> your current environment is full of cues and stimulus which dictate your current habits
+- let's say you're an international student going from home to school. You're going to a new environment devoid of stimulus. This means you have the ability to create new ones. (talk about the cocaine study vietnam war to show just how powerful environment is)
+- Go to your new environment and the first thing you do is set up your environment (clean) as well as plan and prepare (study) in advance. Set up your environment in a way that maximizes your productivity and success
+- It's ok if you do some unproductive things (ex being on your phone) not the end of the world. I would recommend deleting the apps of your phone, or if you want to do something unproductive, do it while you set up (clean) your environment. Our brains are through the rough with stimulus so make the task as easy and attractive as possible
+- Now set up a routine: cleaning routine, health and fitness routine, study routine, sit in the front row of class, study your schedule, your classes and think about what this means for you. Plan out how you will manage school and personal life (need to live a little).
+- Use obsidian to take notes in class, on the textbooks, pre lecture, post lecture. Do the practice problems and record any questions you should look back on. Finally, deploy in depth study guides on the internet. Good for other students, profs and yourself; it follows the feynman technique. You only really understand that which you can teach others. So you're learning how to condense and simplify the information and provide it to other people. (do this after lectures and homework)
+- Make animations using manim, procedure, etc.
+
+## Create a UBC app upload schedule (or student number) then you get a gps which helps guide you around campus. (google api)

@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "2ce00cc21da6c6c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0682a885c36acb4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce291f2ec4212ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/How to Hard-Reset your current habits (YT script).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Hard-Reset your current habits (YT script)"
+            }
+          },
+          {
+            "id": "fc3d10444ae90db2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "371442436086c0e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/French/verbs/faire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "faire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4c54ac9ec710982",
+    "type": "split",
+    "children": [
+      {
+        "id": "169b937f602a20bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5cddeb9ce6ce92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eafcbcc85efd2c5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "french verb",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e80e9d2cd65399fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "2056b90943536dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4fa7f3b27cbb485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "783323ec07ece3d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Source Material/Classes/CPEN 321/Lectures/W2 L1 UML.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for W2 L1 UML"
+            }
+          },
+          {
+            "id": "af3450c47f4fd491",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Source Material/APSC 450.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from APSC 450"
+            }
+          },
+          {
+            "id": "54a4d54d9ffc509f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c94af28f19e2c78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Source Material/APSC 450.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of APSC 450"
+            }
+          },
+          {
+            "id": "3ebde2bb15572644",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cce291f2ec4212ad",
+  "lastOpenFiles": [
+    "2 - Source Material/CPEN 311.md",
+    "2 - Source Material/C Programming Language.md",
+    "2 - Source Material/Arabic.md",
+    "2 - Source Material/APSC 450.md",
+    "2 - Source Material/Quotes/The Marble and The Sculptor.md",
+    "1 - Rough Notes/The Daily Scripture.md",
+    "1 - Rough Notes/Stuff to buy.md",
+    "README.md",
+    "assets/img/Pasted image 20240731124709.png",
+    "assets/pdf",
+    "assets/pdf/View_My_Academic_Record.pdf",
+    "assets/img/Screenshot 2024-09-15 at 10.11.20 AM.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "assets/img/Pasted image 20240915101358.png",
+    "2 - Source Material/French/verbs/aller.md",
+    "5 - Templates/French Verb.md",
+    "2 - Source Material/French/verbs/vouloir.md",
+    "2 - Source Material/French/verbs/faire.md",
+    "2 - Source Material/French/verbs/venir.md",
+    "2 - Source Material/French/verbs/savoir.md",
+    "2 - Source Material/French/verbs/pouvoir.md",
+    "2 - Source Material/French/verbs/parler.md",
+    "2 - Source Material/French/verbs/être.md",
+    "2 - Source Material/French/verbs/avoir.md",
+    "2 - Source Material/French/assets/audio/aller/ils-vont.mp3",
+    "2 - Source Material/French/assets/audio/aller/vous-allez.mp3",
+    "2 - Source Material/French/assets/audio/aller/nous-allons.mp3",
+    "2 - Source Material/French/assets/audio/aller/il-va.mp3",
+    "2 - Source Material/French/assets/audio/aller/je-vais.mp3",
+    "2 - Source Material/French/assets/audio/aller/tu-vas.mp3",
+    "2 - Source Material/French/assets/audio/aller",
+    "2 - Source Material/French/assets/audio",
+    "2 - Source Material/French/Nodes/Level/A1-L1.md",
+    "2 - Source Material/Textbooks/Algorithm Design/Algorithm Design.md",
+    "2 - Source Material/French/Nodes/verb type/-oir.md",
+    "2 - Source Material/French/Nodes/Level/A2-L3.md",
+    "2 - Source Material/French/Nodes/Level/A2-L2.md",
+    "2 - Source Material/French/Nodes/Level/A2-L1.md",
+    "2 - Source Material/French/Nodes/Level/A1-L3.md",
+    "2 - Source Material/French/Nodes/Level/A1-L2.md",
+    "assets/img/Pasted image 20250205084405.png",
+    "assets/img/Pasted image 20250205084328.png",
+    "assets/img/Pasted image 20250205084255.png",
+    "assets/img/Pasted image 20250205084241.png",
+    "assets/img/Screenshot 2025-01-18 at 8.15.07 PM.png",
+    "assets/img/Screenshot 2025-01-18 at 8.14.57 PM.png",
+    "assets/img/Screenshot 2025-01-15 at 1.28.56 PM.png"
+  ]
+}
