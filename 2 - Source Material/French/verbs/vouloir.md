@@ -20,11 +20,11 @@ Definition goes here
 
 ### #présent
 
-| je        | *veux*    |
-| --------- | --------- |
-| tu        | *veux*    |
-| il/elle   | *veut*    |
-| nous      | *voulons* |
-| vous      | *voulez*  |
-| ils/elles | *veulent* |
-
+| Pronoun   | Conjugation | Pronunciation |
+| --------- | ----------- | ------------- |
+| je | *veux* | ![[je-vouloir.mp3]] |
+| tu | *veux* | ![[tu-vouloir.mp3]] |
+| il/elle | *veut* | ![[il-elle-vouloir.mp3]] |
+| nous | *voulons* | ![[nous-vouloir.mp3]] |
+| vous | *voulez* | ![[vous-vouloir.mp3]] |
+| ils/elles | *veulent* | ![[ils-elles-vouloir.mp3]] |

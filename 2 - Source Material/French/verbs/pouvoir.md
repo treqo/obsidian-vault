@@ -20,11 +20,11 @@ Definition goes here
 
 ### #présent
 
-| je        | *peux*    |
-| --------- | --------- |
-| tu        | *peux*    |
-| il/elle   | *peut*    |
-| nous      | *pouvons* |
-| vous      | *pouvez*  |
-| ils/elles | *peuvent* |
-
+| Pronoun   | Conjugation | Pronunciation |
+| --------- | ----------- | ------------- |
+| je | *peux* | ![[je-pouvoir.mp3]] |
+| tu | *peux* | ![[tu-pouvoir.mp3]] |
+| il/elle | *peut* | ![[il-elle-pouvoir.mp3]] |
+| nous | *pouvons* | ![[nous-pouvoir.mp3]] |
+| vous | *pouvez* | ![[vous-pouvoir.mp3]] |
+| ils/elles | *peuvent* | ![[ils-elles-pouvoir.mp3]] |

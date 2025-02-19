@@ -20,11 +20,11 @@ Definition goes here
 
 ### #présent
 
-| je        | fais      |
-| --------- | --------- |
-| tu        | fais      |
-| il/elle   | *fait*    |
-| nous      | *faisons* |
-| vous      | *faites*  |
-| ils/elles | *font*    |
-
+| Pronoun   | Conjugation | Pronunciation |
+| --------- | ----------- | ------------- |
+| je | fais | ![[je-faire.mp3]] |
+| tu | fais | ![[tu-faire.mp3]] |
+| il/elle | *fait* | ![[il-elle-faire.mp3]] |
+| nous | *faisons* | ![[nous-faire.mp3]] |
+| vous | *faites* | ![[vous-faire.mp3]] |
+| ils/elles | *font* | ![[ils-elles-faire.mp3]] |

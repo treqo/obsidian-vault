@@ -20,11 +20,11 @@ Definition goes here
 
 ### #présent
 
-| je        | *sais*   |
-| --------- | -------- |
-| tu        | *sais*   |
-| il/elle   | *sait*   |
-| nous      | *savons* |
-| vous      | *savez*  |
-| ils/elles | *savent* |
-
+| Pronoun   | Conjugation | Pronunciation |
+| --------- | ----------- | ------------- |
+| je | *sais* | ![[je-savoir.mp3]] |
+| tu | *sais* | ![[tu-savoir.mp3]] |
+| il/elle | *sait* | ![[il-elle-savoir.mp3]] |
+| nous | *savons* | ![[nous-savoir.mp3]] |
+| vous | *savez* | ![[vous-savoir.mp3]] |
+| ils/elles | *savent* | ![[ils-elles-savoir.mp3]] |

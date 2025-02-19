@@ -20,11 +20,11 @@ Definition goes here
 
 ### #présent
 
-| je        | parle   |
-| --------- | ------- |
-| tu        | parles  |
-| il/elle   | parle   |
-| nous      | parlons |
-| vous      | parlez  |
-| ils/elles | parlent |
-
+| Pronoun   | Conjugation | Pronunciation |
+| --------- | ----------- | ------------- |
+| je | parle | ![[je-parler.mp3]] |
+| tu | parles | ![[tu-parler.mp3]] |
+| il/elle | parle | ![[il-elle-parler.mp3]] |
+| nous | parlons | ![[nous-parler.mp3]] |
+| vous | parlez | ![[vous-parler.mp3]] |
+| ils/elles | parlent | ![[ils-elles-parler.mp3]] |

@@ -20,11 +20,11 @@ Definition goes here
 
 ### #présent
 
-| je        | *viens*    |
-| --------- | ---------- |
-| tu        | *viens*    |
-| il/elle   | *vient*    |
-| nous      | *venons*   |
-| vous      | *venez*    |
-| ils/elles | *viennent* |
-
+| Pronoun   | Conjugation | Pronunciation |
+| --------- | ----------- | ------------- |
+| je | *viens* | ![[je-venir.mp3]] |
+| tu | *viens* | ![[tu-venir.mp3]] |
+| il/elle | *vient* | ![[il-elle-venir.mp3]] |
+| nous | *venons* | ![[nous-venir.mp3]] |
+| vous | *venez* | ![[vous-venir.mp3]] |
+| ils/elles | *viennent* | ![[ils-elles-venir.mp3]] |

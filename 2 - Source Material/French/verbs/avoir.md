@@ -22,10 +22,10 @@ Definition goes here
 
 | Pronoun   | Conjugation | Pronunciation |
 | --------- | ----------- | ------------- |
-| j'        | *ai*        |               |
-| tu        | *as*        |               |
-| il/elle   | *a*         |               |
-| nous      | *avons*     |               |
-| vous      | *avez*      |               |
-| ils/elles | *ont*       |               |
+| j' | *ai* | ![[j'-avoir.mp3]] |
+| tu | *as* | ![[tu-avoir.mp3]] |
+| il/elle | *a* | ![[il-elle-avoir.mp3]] |
+| nous | *avons* | ![[nous-avoir.mp3]] |
+| vous | *avez* | ![[vous-avoir.mp3]] |
+| ils/elles | *ont* | ![[ils-elles-avoir.mp3]] |
 
