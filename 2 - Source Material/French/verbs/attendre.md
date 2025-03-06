@@ -22,9 +22,9 @@ Definition goes here
 
 | Pronoun    | Conjugation | Pronunciation |
 | ---------- | ----------- | ------------- |
-| je         | attends     |               |
-| tu         | attends     |               |
-| il/elle/on | attend      |               |
-| nous       | attendons   |               |
-| vous       | attendez    |               |
-| ils/elles  | attendent   |               |
+| je | attends | ![[je-attendre.mp3]] |
+| tu | attends | ![[tu-attendre.mp3]] |
+| il/elle/on | attend | ![[il-elle-on-attendre.mp3]] |
+| nous | attendons | ![[nous-attendre.mp3]] |
+| vous | attendez | ![[vous-attendre.mp3]] |
+| ils/elles | attendent | ![[ils-elles-attendre.mp3]] |

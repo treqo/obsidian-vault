@@ -22,9 +22,9 @@ Definition goes here
 
 | Pronoun    | Conjugation | Pronunciation |
 | ---------- | ----------- | ------------- |
-| je         | connais     |               |
-| tu         | connais     |               |
-| il/elle/on | connaît     |               |
-| nous       | connaissons |               |
-| vous       | connaissez  |               |
-| ils/elles  | connaissent |               |
+| je | connais | ![[je-connaître.mp3]] |
+| tu | connais | ![[tu-connaître.mp3]] |
+| il/elle/on | connaît | ![[il-elle-on-connaître.mp3]] |
+| nous | connaissons | ![[nous-connaître.mp3]] |
+| vous | connaissez | ![[vous-connaître.mp3]] |
+| ils/elles | connaissent | ![[ils-elles-connaître.mp3]] |
